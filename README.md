@@ -37,13 +37,3 @@ This project includes various modules where specific automation and testing task
 - **waits_cookies_Calismasi**: Test cases for waiting mechanisms and working with cookies.
 - **windowSwitch_actionsClass_Calismasi**: Test cases for switching between browser windows and using the Actions class.
 
-### How to Run
-
-1. Clone the repository.
-2. Use your preferred IDE (such as IntelliJ IDEA, Eclipse) to open the project.
-3. Ensure **JUnit** and **Selenium WebDriver** dependencies are properly set up.
-4. Run the test classes using the JUnit runner.
-
-### License
-
-This project is open-source and available under the MIT License. Feel free to contribute or fork the repository to improve or add new features.
